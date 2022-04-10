@@ -13,7 +13,7 @@
          "have4K": false,
          "imdbID": "tt10147910",
          "nameOriginal": "สาวลับใช้",
-         "nameRU": "Проклятие. Дом с прислугой ТЕСТ ТЕСТ",
+         "nameRU": "Test 1",
          "new": false,
          "posterURL": "http://tmdb.kinotrend.site/image/t/p/w500/1Z2SwNd0NIcSUENOl2WKpFwPKkD.jpg",
          "premierDate": "2022-03-10",
@@ -71,7 +71,7 @@
          "have4K": false,
          "imdbID": "tt12060154",
          "nameOriginal": "Medusa: Queen of the Serpents",
-         "nameRU": "Проклятие Горгоны",
+         "nameRU": "Тест 2",
          "new": false,
          "posterURL": "http://tmdb.kinotrend.site/image/t/p/w500/qexh8WmigHDrt45kXkUWxWGEYTK.jpg",
          "premierDate": "2022-02-07",
@@ -13671,5 +13671,5 @@
          "year": "2021"
       }
    ],
-   "updated": 1577836800
+   "updated": 1577836900
 }
