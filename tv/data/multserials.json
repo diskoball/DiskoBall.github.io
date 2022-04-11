@@ -1,5 +1,5 @@
 {
-   "count": 3,
+   "count": 4,
    "movies": [
    {
          "actors": "Боня",
@@ -53,6 +53,88 @@
          "country": "Україна",
          "description": "Не вказанно",
          "directors": "Боня",
+         "filmID": 867711,
+         "filmLength": "1:11",
+         "genre": "Мульт-Серіали",
+         "have4K": false,
+         "imdbID": "tt867711",
+         "nameOriginal": "OrignalName",
+         "nameRU": "Том і Джеррі",
+         "new": false,
+         "posterURL": "https://upload.wikimedia.org/wikipedia/ru/7/75/Tom_and_Jerry_and_the_Wizard_of_Oz.jpg",
+         "premierDate": "2020-01-1",
+         "premierType": "Україна",
+         "rating": "9",
+         "ratingAgeLimits": "0+",
+         "ratingFloat": 9,
+         "ratingIMDb": "9",
+         "ratingIMDbCount": 1,
+         "ratingKP": "9",
+         "ratingKPCount": 1,
+         "ratingMPAA": "",
+         "slogan": "",
+         "tmdbID": 867711,
+         "torrents": [
+			{
+               "audio": "D",
+               "date": "2020-01-01",
+               "leechers": 1,
+               "license": false,
+               "link": "http://d.rutor.info/p867711",
+               "magnet": "magnet:?xt=urn:btih:500673c98b1a4366465b5ce60edf84beadd1f14a&dn=Tom%20%26%20Jerry%20Kids%20season%201-4%20%281990-1993%29%20%5Bukr%5D%20TVRip%20%5BHurtom%5D%20by%20MasterYura&tr=http%3A%2F%2Fbt.toloka.to%2Fannounce%2F%3Fh%3Dayd2csccEh%26",
+               "quality": 1,
+               "seeders": 1,
+               "size": 1,
+               "type": "1. 1-4 Сезони. (1990-1993)  Джерело 01"
+            },		
+			{
+               "audio": "D",
+               "date": "2020-01-01",
+               "leechers": 1,
+               "license": false,
+               "link": "http://d.rutor.info/p634010",
+               "magnet": "magnet:?xt=urn:btih:10cd264a8baca28d4364baa30927a83508f4b30b&dn=%5BUAVoice%5D%20Tom%20and%20Jerry%201080%20UKR&tr=http%3A%2F%2Fbt.toloka.to%2Fannounce%2F%3Fh%3Dayd2csccEh%26",
+               "quality": 1,
+               "seeders": 1,
+               "size": 1,
+               "type": "2. 1 Сезон. Джерело 02"
+            },
+			{
+               "audio": "D",
+               "date": "2020-01-01",
+               "leechers": 1,
+               "license": false,
+               "link": "http://d.rutor.info/p1116053",
+               "magnet": "magnet:?xt=urn:btih:94d749f91913ecac5f01cabb55c2770c9756e9b4&dn=Tom%20and%20Jerry%20Tales&tr=http%3A%2F%2Fbt.toloka.to%2Fannounce%2F%3Fh%3Dayd2csccEh%26",
+               "quality": 1,
+               "seeders": 1,
+               "size": 1,
+               "type": "3. 1-2 Сезони. Джерело 03"
+            },
+			{
+               "audio": "D",
+               "date": "2020-01-01",
+               "leechers": 1,
+               "license": false,
+               "link": "http://d.rutor.info/p1117872",
+               "magnet": "magnet:?xt=urn:btih:791f0fdee311f06e612aa2d5bfe44e5a9e78a504&dn=The%20Tom%20and%20Jerry%20Show&tr=http%3A%2F%2Fbt.toloka.to%2Fannounce%2F%3Fh%3Dayd2csccEh%26",
+               "quality": 1,
+               "seeders": 1,
+               "size": 1,
+               "type": "4. 1 Сезон. Джерело 04"
+            }
+         ],
+         "torrentsDate": "2020-01-01",
+         "trailerURL": "",
+         "trailerYoutube": "https://www.youtube.com/",
+         "year": "2020"
+      },
+	  {
+         "actors": "Боня",
+         "bigPosterURL": "https://images2.imgbox.com/05/6d/qX4eLrQP_o.jpg",
+         "country": "Україна",
+         "description": "Не вказанно",
+         "directors": "Боня",
          "filmID": 1138298,
          "filmLength": "1:11",
          "genre": "Мульт-Серіали",
@@ -75,18 +157,6 @@
          "slogan": "",
          "tmdbID": 1138298,
          "torrents": [
-            {
-               "audio": "D",
-               "date": "2020-01-01",
-               "leechers": 1,
-               "license": false,
-               "link": "http://d.rutor.info/",
-               "magnet": "magnet:?xt=urn:btih:64041a9d39d8ff6b13bc4aefe6804c35144b5031&dn=SpongeBob%20SquarePants%201080p%20WEB-DL&tr=http%3A%2F%2Fbt.toloka.to%2Fannounce%2F%3Fh%3Dayd2csccEh%26",
-               "quality": 1,
-               "seeders": 1,
-               "size": 1,
-               "type": "1. 1-11 Сезони. Джерело 01"
-            },
 			{
                "audio": "D",
                "date": "2020-01-01",
@@ -97,20 +167,8 @@
                "quality": 1,
                "seeders": 1,
                "size": 1,
-               "type": "2. 1-8 Сезони. Джерело 02"
-            },
-			{
-               "audio": "D",
-               "date": "2020-01-01",
-               "leechers": 1,
-               "license": false,
-               "link": "http://d.rutor.info/",
-               "magnet": "magnet:?xt=urn:btih:451d6bcf01ce17bc97ed1aabf0962e91702f6e23&dn=SpongeBob%20SquarePants%20-%20DVDRip-AVC%2C%20SATRip-AVC%20%5BUkr%2C%20Eng%5D%20%5BHurtom%5D&tr=http%3A%2F%2Fbt.toloka.to%2Fannounce%2F%3Fh%3Dayd2csccEh%26",
-               "quality": 1,
-               "seeders": 1,
-               "size": 1,
-               "type": "2. 1-8 Сезони. Джерело 02"
-            },
+               "type": "1. 1-8 Сезони. Джерело 02"
+            },		
 			{
                "audio": "D",
                "date": "2020-01-01",
@@ -146,7 +204,19 @@
                "seeders": 1,
                "size": 1,
                "type": "5. 1-8 Сезони. Джерело 05"
-            }
+            },
+			{
+               "audio": "D",
+               "date": "2020-01-01",
+               "leechers": 1,
+               "license": false,
+               "link": "http://d.rutor.info/",
+               "magnet": "magnet:?xt=urn:btih:64041a9d39d8ff6b13bc4aefe6804c35144b5031&dn=SpongeBob%20SquarePants%201080p%20WEB-DL&tr=http%3A%2F%2Fbt.toloka.to%2Fannounce%2F%3Fh%3Dayd2csccEh%26",
+               "quality": 1,
+               "seeders": 1,
+               "size": 1,
+               "type": "6. 1-11 Сезони. Джерело 01"
+            }	
          ],
          "torrentsDate": "2020-01-01",
          "trailerURL": "",
