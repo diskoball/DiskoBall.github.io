@@ -1,0 +1,52 @@
+{
+   "count": 1,
+   "movies": [
+      {
+         "actors": "Боня",
+         "bigPosterURL": "https://images2.imgbox.com/05/6d/qX4eLrQP_o.jpg",
+         "country": "Україна",
+         "description": "Не вказано",
+         "directors": "Боня",
+         "filmID": 1,
+         "filmLength": "1:42",
+         "genre": "МультСеріал",
+         "have4K": false,
+         "imdbID": "tt10147910",
+         "nameOriginal": "Mult",
+         "nameRU": "Баранчик Шон",
+         "new": false,
+         "posterURL": "https://upload.wikimedia.org/wikipedia/ru/c/c6/Shaun_the_Sheep_Movie1.jpg",
+         "premierDate": "2020-01-01",
+         "premierType": "Україна",
+         "rating": "",
+         "ratingAgeLimits": "0+",
+         "ratingFloat": 0,
+         "ratingIMDb": "",
+         "ratingIMDbCount": 0,
+         "ratingKP": "",
+         "ratingKPCount": 0,
+         "ratingMPAA": "",
+         "slogan": "",
+         "tmdbID": 1,
+         "torrents": [
+            {
+               "audio": "D",
+               "date": "2020-01-01",
+               "leechers": 1,
+               "license": false,
+               "link": "http://d.rutor.info/",
+               "magnet": "magnet:?xt=urn:btih:dc53e39642f87a03e5f08e6221e261bfacdf9f1d&dn=Shaun%20the%20Sheep%20SATRip&tr=http%3A%2F%2Fbt.toloka.to%2Fannounce%2F%3Fh%3Dayd2csccEh%26",
+               "quality": 1,
+               "seeders": 1,
+               "size": 1,
+               "type": "1. 1-4 Сезон. Джерело 01"
+            }
+         ],
+         "torrentsDate": "2020-01-01",
+         "trailerURL": "",
+         "trailerYoutube": "https://www.youtube.com/",
+         "year": "2020"
+      }
+   ],
+   "updated": 1649629626
+}
