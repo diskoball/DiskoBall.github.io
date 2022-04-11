@@ -1,6 +1,52 @@
 {
    "count": 1,
    "movies": [
+   {
+         "actors": "Боня",
+         "bigPosterURL": "https://images2.imgbox.com/05/6d/qX4eLrQP_o.jpg",
+         "country": "Україна",
+         "description": "Не вказанно",
+         "directors": "Боня",
+         "filmID": 10,
+         "filmLength": "1:11",
+         "genre": "Мульт-Серіали",
+         "have4K": false,
+         "imdbID": "tt10",
+         "nameOriginal": "OrignalName",
+         "nameRU": "Балакучий Том",
+         "new": false,
+         "posterURL": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%89%D0%B8%D0%B9_%D0%A2%D0%BE%D0%BC_%D0%B8_%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Talking_Tom_and_Friends_Animated_Series.jpeg",
+         "premierDate": "2020-01-1",
+         "premierType": "Україна",
+         "rating": "9",
+         "ratingAgeLimits": "0+",
+         "ratingFloat": 9,
+         "ratingIMDb": "9",
+         "ratingIMDbCount": 1,
+         "ratingKP": "9",
+         "ratingKPCount": 1,
+         "ratingMPAA": "",
+         "slogan": "",
+         "tmdbID": 10,
+         "torrents": [
+            {
+               "audio": "D",
+               "date": "2020-01-01",
+               "leechers": 1,
+               "license": false,
+               "link": "http://d.rutor.info/",
+               "magnet": "magnet:?xt=urn:btih:5a3ea89bd171ecb8c5b0fdd66f7021ab250345ee&dn=Talking%20Tom%20and%20Friends%20S01%2C2%20%5BHurtom%5D%20by%20urij546724&tr=http%3A%2F%2Fbt.toloka.to%2Fannounce%2F%3Fh%3Dayd2csccEh%26",
+               "quality": 1,
+               "seeders": 1,
+               "size": 1,
+               "type": "1. 1-2 Сезон. Джерело 01"
+            }
+         ],
+         "torrentsDate": "2020-01-01",
+         "trailerURL": "",
+         "trailerYoutube": "https://www.youtube.com/",
+         "year": "2020"
+      },
       {
          "actors": "Боня",
          "bigPosterURL": "https://images2.imgbox.com/05/6d/qX4eLrQP_o.jpg",
