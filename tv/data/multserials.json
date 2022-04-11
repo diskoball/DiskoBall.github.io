@@ -1,5 +1,5 @@
 {
-   "count": 2,
+   "count": 3,
    "movies": [
    {
          "actors": "Боня",
@@ -61,7 +61,7 @@
          "nameOriginal": "OrignalName",
          "nameRU": "Губка Боб",
          "new": false,
-         "posterURL": "https://upload.wikimedia.org/wikipedia/ru/7/78/Talking_Tom_and_Friends_Animated_Series.jpeg",
+         "posterURL": "https://upload.wikimedia.org/wikipedia/ru/0/00/SpongeBob_S8.jpg",
          "premierDate": "2020-01-1",
          "premierType": "Україна",
          "rating": "9",
@@ -200,5 +200,5 @@
          "year": "2020"
       }
    ],
-   "updated": 1649629626
+   "updated": 1649691089
 }
