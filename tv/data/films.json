@@ -1,0 +1,52 @@
+{
+   "count": 1,
+   "movies": [
+   {
+         "actors": "Боня",
+         "bigPosterURL": "https://images2.imgbox.com/05/6d/qX4eLrQP_o.jpg",
+         "country": "Україна",
+         "description": "Не вказанно",
+         "directors": "Боня",
+         "filmID": 11541872,
+         "filmLength": "1:11",
+         "genre": "Фільм",
+         "have4K": false,
+         "imdbID": "tt11541872",
+         "nameOriginal": "OrignalName",
+         "nameRU": "Поездка в Америку 2",
+         "new": false,
+         "posterURL": "https://upload.wikimedia.org/wikipedia/ru/c/c0/Coming_2_America.jpg",
+         "premierDate": "2020-01-1",
+         "premierType": "Україна",
+         "rating": "9",
+         "ratingAgeLimits": "0+",
+         "ratingFloat": 9,
+         "ratingIMDb": "9",
+         "ratingIMDbCount": 1,
+         "ratingKP": "9",
+         "ratingKPCount": 1,
+         "ratingMPAA": "",
+         "slogan": "",
+         "tmdbID": 11541872,
+         "torrents": [
+            {
+               "audio": "D",
+               "date": "2020-01-01",
+               "leechers": 1,
+               "license": false,
+               "link": "http://d.rutor.info/",
+               "magnet": "magnet:?xt=urn:btih:AFEDED84823B1FC89A597CE6C797EEE734BF1775&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0%20%D0%B2%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D1%83%202%20%2F%20Coming%202%20America%20(%D0%9A%D1%80%D1%8D%D0%B9%D0%B3%20%D0%91%D1%80%D1%8E%D1%8D%D1%80%20%2F%20Craig%20Brewer)%20%5B2021%2C%20%D0%A1%D0%A8%D0%90%2C%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%2C%20WEB-DLRip%5D%20MVO%20(Jaskier)",
+               "quality": 1,
+               "seeders": 1,
+               "size": 1500000,
+               "type": "1. Озвучка Jaskier. Джерело 01"
+            }
+         ],
+         "torrentsDate": "2020-01-01",
+         "trailerURL": "",
+         "trailerYoutube": "https://www.youtube.com/",
+         "year": "2020"
+      }
+   ],
+   "updated": 1649629626
+}
