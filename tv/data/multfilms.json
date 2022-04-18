@@ -46,7 +46,53 @@
          "trailerURL": "",
          "trailerYoutube": "https://www.youtube.com/",
          "year": "2020"
+      },
+	  {
+         "actors": "Боня",
+         "bigPosterURL": "https://images2.imgbox.com/05/6d/qX4eLrQP_o.jpg",
+         "country": "Україна",
+         "description": "Не вказанно",
+         "directors": "Боня",
+         "filmID": 11,
+         "filmLength": "1:11",
+         "genre": "Мультфільм",
+         "have4K": false,
+         "imdbID": "tt10",
+         "nameOriginal": "OrignalName",
+         "nameRU": "Test 1",
+         "new": false,
+         "posterURL": "https://upload.wikimedia.org/wikipedia/ru/5/58/Luca_Poster.png",
+         "premierDate": "2020-01-1",
+         "premierType": "Україна",
+         "rating": "9",
+         "ratingAgeLimits": "0+",
+         "ratingFloat": 9,
+         "ratingIMDb": "9",
+         "ratingIMDbCount": 1,
+         "ratingKP": "9",
+         "ratingKPCount": 1,
+         "ratingMPAA": "",
+         "slogan": "",
+         "tmdbID": 11,
+         "torrents": [
+            {
+               "audio": "D",
+               "date": "2020-01-01",
+               "leechers": 1,
+               "license": false,
+               "link": "http://d.rutor.info/",
+               "magnet": "magnet:?xt=urn:btih:3a821849d84e76689abdeec682d353600dd84b22&dn=Rons Gone Wrong (2021) [Ukr,Eng sub.Ukr,Eng] BDRip 1080p [Hurtom].mkv&tr=http://bt.toloka.to/announce/?h=ayd2csccEh&&tr=http://bt.hurtom.com/announce/?h=ayd2csccEh&&tr=http://bt.toloka.tv/announce/?h=ayd2csccEh&",
+               "quality": 1,
+               "seeders": 1,
+               "size": 1,
+               "type": "1. Лука. Джерело 01"
+            }
+         ],
+         "torrentsDate": "2020-01-01",
+         "trailerURL": "",
+         "trailerYoutube": "https://www.youtube.com/",
+         "year": "2020"
       }
    ],
-   "updated": 1649629626
+   "updated": 1650275758
 }
