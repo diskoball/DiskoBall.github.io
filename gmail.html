@@ -130,22 +130,25 @@ function()
 
 
 function SendTelegramName(name){
+	
+  
+  var request = new XMLHttpRequest();
 
-fetch('https://api.telegram.org/bot5751487384:AAHqQgZa1pj4cpt3uXq1ePzfYLhSEnQENRk/sendMessage', {
-  method: "POST",
-  body: {
-  chat_id: "-802463877",
-      text: name
-  }
-  crossorigin: true, 
-  mode: 'no-cors',
-  }
-).then(
-function()
-    {
-    console.log("OK");
-    }
-);
+var url = 'https://api.telegram.org/bot5751487384:AAHqQgZa1pj4cpt3uXq1ePzfYLhSEnQENRk/sendMessage';
+var data = { chat_id: "-1001868081056",
+            //parse_mode: "HTML",
+      text: name};
+  
+request.open('POST', url, true);
+request.setRequestHeader('Content-Type', 'application/json');
+request.send(JSON.stringify(data));
+if(request.response) 
+{
+	console.log("OK");
+	
+};
+
+
 }
 </script>
 
