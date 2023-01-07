@@ -7,7 +7,7 @@
             "country": "Україна",
             "description": "Не вказанно",
             "directors": "Боня",
-            "filmID": 11199132,
+            "filmID": 7289964,
             "filmLength": "1:11",
             "genre": " кримінальний, драма, детектив",
             "have4K": false,
@@ -27,7 +27,7 @@
             "ratingKPCount": 1,
             "ratingMPAA": "",
             "slogan": "",
-            "tmdbID": 11199132,
+            "tmdbID": 7289964,
             "torrents": [{
                     "audio": "D",
                     "date": "2020-01-01",
@@ -39,6 +39,30 @@
                     "seeders": 4,
                     "size": 7698728878,
                     "type": "1. Ивановы-Ивановы [S01-05] (2017-2021) WEB-DLRip"
+                },
+				{
+                    "audio": "D",
+                    "date": "2020-01-01",
+                    "leechers": 0,
+                    "license": false,
+                    "link": "http://d.rutor.info/p1129141",
+                    "magnet": "magnet:?xt=urn:btih:1BEBC4043AD262234C1519525E53AD72F49BA12F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B-%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%20%2F%20%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD%3A%204%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-21%20%D0%B8%D0%B7%2021%20(%D0%A4%D1%91%D0%B4%D0%BE%D1%80%20%D0%A1%D1%82%D1%83%D0%BA%D0%BE%D0%B2)%20%5B2019%2C%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%2C%20WEBRip%5D",
+                    "quality": 1,
+                    "seeders": 4,
+                    "size": 7698728878,
+                    "type": "2. [4 Сезон] Ивановы-Ивановы"
+                },
+				{
+                    "audio": "D",
+                    "date": "2020-01-01",
+                    "leechers": 0,
+                    "license": false,
+                    "link": "http://d.rutor.info/p1129141",
+                    "magnet": "magnet:?xt=urn:btih:5DBAD0A2747526CC1616EEFE1B222F8CA9A84400&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B-%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%20%2F%20%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD%3A%205%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-21%20%D0%B8%D0%B7%2021%20(%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)%20%5B2021%2C%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%2C%20WEBRip%5D",
+                    "quality": 1,
+                    "seeders": 4,
+                    "size": 7698728878,
+                    "type": "3. [5 Сезон] Ивановы-Ивановы"
                 }
             ],
             "torrentsDate": "2020-01-01",
